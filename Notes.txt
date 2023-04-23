@@ -1,0 +1,2 @@
+Clone == > to make a Compy form your Remote Repo to your local Repo
+
